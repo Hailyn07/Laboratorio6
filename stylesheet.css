@@ -17,25 +17,15 @@ p{
     color: black;
 }
 
-.menu{
-    margin: auto;
-    list-style: none;
-    padding: 0%;
-    width: 90%;
-    max-width: 1000px;
-    text-align: center;
+#menu li > a {
+    font: size 18px;
+    font-weight: bold;
+    color: #3f3f3f;
 }
 
-.menu li a{
-    display: block;
-    padding: 20px;
-    color: black;
-    
-}
-
-.menu li{
-    display: inline-block;
-
+#menu form > button {
+    font: size 18px;
+    font-weight: bold;
 }
 
 
