@@ -1,15 +1,10 @@
 body{
-    background-image: url(https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(https://images.unsplash.com/photo-1687150434638-1925e0d656ab?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
 }
 
 h1{
     color: black;
     text-align: center;
-}
-
-p{
-    text-align: center;
-    color: black;
 }
 
 .menu{
@@ -30,5 +25,4 @@ p{
 
 .menu li{
     display: inline-block;
-
 }
