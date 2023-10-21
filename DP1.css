@@ -1,7 +1,6 @@
 body{
-    background-image: url(https://images.unsplash.com/photo-1687150434638-1925e0d656ab?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-color: aquamarine;
 }
-
 h1{
     color: black;
     text-align: center;
@@ -26,4 +25,3 @@ h1{
 .menu li{
     display: inline-block;
 }
-
